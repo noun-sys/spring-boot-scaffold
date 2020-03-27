@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: mp-supplier-paas
+#  datasource:
+#    url: jdbc:mysql://10.201.128.232:3306/mp_supplier_paas?useSSL=false
+#    driver-class-name: com.mysql.jdbc.Driver
+#    poolName: hikariCP
+#    maximumPoolSize: 30
+#    minimumIdle: 3
+#    connectionTimeout: 5000
+#    idleTimeout: 60000
+#    connectionTestQuery: SELECT 1 FROM DUAL
+#    validationTimeout: 5000
+#    maxLifetime: 600000
+#    type: com.zaxxer.hikari.HikariDataSource
+#    username: user_mp_supplier
+#    password: user_mp_supplier
+server:
+   servlet:
+      context-path: /mp-supplier-paas
+   port: 7210
