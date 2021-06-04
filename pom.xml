@@ -21,7 +21,7 @@
         <xxl-job.version>1.8.1</xxl-job.version>
         <swagger.version>2.9.2</swagger.version>
         <jwt.version>3.8.1</jwt.version>
-        <httpclient.version>4.5.5</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <aspectj.version>1.8.13</aspectj.version>
     </properties>
 
